@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey there! I'm Martín Pravia (aka Marto)  
 
-<!--
-**martopravia/martopravia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/MicrosoftCloud-microsoft-cloud-ms-ZDxrPdX4Au7St8r36N)" width="200"/>
 
-Here are some ideas to get you started:
+## 🐾 About Me  
+- 🌎 From Uruguay, passionate about **technology and animals** (🐱 I live with 3 cats).  
+- 🍽️ Background in **gastronomy & management**, now turned into tech.  
+- 🎓 Completed **+650h Full Stack Bootcamp at Hack Academy** (Node.js, React, SQL, MongoDB, JWT, Vercel, Supabase).  
+- 🐍 Completed **+360h Python Bootcamp at 4Geeks Academy** (Python, Flask).  
+- 🚀 Always curious, continuously learning, and ready to collaborate on projects that create real impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills  
+- Full Stack Development  
+- Web Applications & APIs  
+- Database Design (SQL & NoSQL)  
+- Authentication & Security (JWT)  
+- Problem Solving & Teamwork  
+
+---
+
+## 🛠️ Technologies  
+**Frontend:** React.js, Context API, HTML, CSS  
+**Backend:** Node.js, Express, Python (Flask)  
+**Databases:** MySQL (Sequelize), MongoDB, Supabase  
+**Tools & Deploy:** Git/GitHub, Vercel  
+**Other:** REST APIs, Agile teamwork  
+
+---
+
+## 🌐 Languages  
+- **Spanish:** Native  
+- **English:** Advanced  
+
+---
+
+## 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martinpravia)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/martinpravia)  
+📧 marto.pravia@gmail.com  
+
+---
+
+> ✨ “Code + Cats + Music = Productivity.”  
