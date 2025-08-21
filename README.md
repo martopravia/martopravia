@@ -36,7 +36,7 @@
 
 # Studio Nöra Project
 
-Hack Academy Final Proyect: Public e-commerce site and an admin dashboard.  
+Hack Academy Final Project: Public e-commerce site and an admin dashboard.  
 
 ## Live Demo
 
