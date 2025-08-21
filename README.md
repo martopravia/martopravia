@@ -34,6 +34,19 @@
 
 ---
 
+# Studio Nöra Project
+
+Hack Academy Final Proyect: Public e-commerce site and an admin dashboard.  
+
+## Live Demo
+
+- **E-commerce site:** [View the store](https://studio-nora-ecommerce.vercel.app/)  
+  Browse products, add to cart, and explore the online store.
+
+- **Admin Dashboard:** [View the dashboard](https://studio-nora-dashboard.vercel.app/) *(Use with caution: this is the admin panel. Only use the test account provided. Do not modify or delete data.)*
+
+---
+
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-pravia)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/martopravia)  
