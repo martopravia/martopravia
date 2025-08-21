@@ -1,14 +1,24 @@
-# 👋 Hey there! I'm Martín Pravia (aka Marto)  
+# 👋 Hey there! I'm Martín Pravia (aka Marto)
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZhNGo5bXAyMXlpYmV0OTVoYzY3NW5xbDVkczd1cmp4Zzl1djF1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="200"/>
-&nbsp;  
+<table>
+<tr>
+<td>
 
-## 🐾 About Me  
+## 🐾 About Me
 - 🌎 From Uruguay, passionate about **technology and animals** (🐱 I live with 3 cats).  
 - 🍽️ Background in **gastronomy & management**, now turned into tech.  
 - 🎓 Completed **+650h Full Stack Bootcamp at Hack Academy** (Node.js, React, SQL, MongoDB, JWT, Vercel, Supabase).  
 - 🐍 Completed **+360h Python Bootcamp at 4Geeks Academy** (Python, Flask).  
-- 🚀 Always curious, continuously learning, and ready to collaborate on projects that create real impact.  
+- 🚀 Always curious, continuously learning, and ready to collaborate on projects that create real impact.
+
+</td>
+<td>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZhNGo5bXAyMXlpYmV0OTVoYzY3NW5xbDVkczd1cmp4Zzl1djF1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="200" alt="Cat working" />
+
+</td>
+</tr>
+</table>
 
 ---
 
