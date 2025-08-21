@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Martín Pravia (aka Marto)  
 
-<img align="right" src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/MicrosoftCloud-microsoft-cloud-ms-ZDxrPdX4Au7St8r36N)" width="200"/>
+<img align="right" src="https://giphy.com/gifs/MicrosoftCloud-microsoft-cloud-ms-ZDxrPdX4Au7St8r36N" width="200"/>
 
 ## 🐾 About Me  
 - 🌎 From Uruguay, passionate about **technology and animals** (🐱 I live with 3 cats).  
