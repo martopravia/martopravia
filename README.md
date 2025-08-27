@@ -40,10 +40,10 @@ Hack Academy Final Project: Public e-commerce site and an admin dashboard.
 
 ## Live Demo
 
-- **E-commerce site:** [View the store](https://studio-nora-ecommerce.vercel.app/)  
+- **E-commerce site:** <a href="https://studio-nora-ecommerce.vercel.app/" target="_blank">View the store</a>  
   Browse products, add to cart, and explore the online store.
 
-- **Admin Dashboard:** [View the dashboard](https://studio-nora-dashboard.vercel.app/) *(Use with caution: this is the admin panel. Only use the test account provided. Do not modify or delete data.)*
+- **Admin Dashboard:** <a href="https://studio-nora-dashboard.vercel.app/" target="_blank">View the dashboard</a> *(Use with caution: this is the admin panel. Only use the test account provided. Do not modify or delete data.)*
 
 ---
 
